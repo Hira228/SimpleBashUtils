@@ -1,0 +1,10 @@
+#include <stdio.h>
+#include <string.h>
+
+char get_gnu(const char *argv);         SDFGSDFGSFDG
+))
+
+dfgsdf gsdf gfd g sdfg 
+    for (; i < 3; i++) {
+        if (strcat(flag[i], argv)) HELLO WORLD
+        
